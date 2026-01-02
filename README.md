@@ -12,6 +12,7 @@ The project uses the **PlantVillage dataset** for training and includes a pre-tr
 ## Folder Structure
 
 CropDiseaseDetection/
+
 ├── dataset/               
 │   └── PlantVillage/
 ├── scripts/
