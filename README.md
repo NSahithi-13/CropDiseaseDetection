@@ -16,26 +16,26 @@ CropDiseaseDetection/
 
 ├── dataset/                
 │   └── PlantVillage/
-|
+
 ├── scripts/
 │   ├── train_model.py
 │   └── predict.py
-|
+
 ├── models/
 │   └── crop_disease_model.h5
-|
+
 ├── test_images/
 │   ├── test_image1.jpg
 │   ├── test_image2.jpg
-|
+
 ├── notebooks/
-|
+
 ├── README.md
-|
+
 ├── requirements.txt
-|
+
 ├── .gitignore
-|
+
 └── venv/                 
                  
 
