@@ -12,7 +12,9 @@ The project uses the **PlantVillage dataset** for training and includes a pre-tr
 ## Folder Structure
 
 CropDiseaseDetection/
+
 ├── app/ # Optional for future UI/web app
+
 ├── dataset/ # PlantVillage dataset (not included, see instructions)
 │ └── PlantVillage/
 │ ├── Pepper__bell___Bacterial_spot/
