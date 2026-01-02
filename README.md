@@ -12,26 +12,21 @@ The project uses the **PlantVillage dataset** for training and includes a pre-tr
 ## Folder Structure
 
 CropDiseaseDetection/
-
-├── app/ # Optional for future UI/web app
-
-├── dataset/ # PlantVillage dataset (not included, see instructions)
-│ └── PlantVillage/
-│ ├── Pepper__bell___Bacterial_spot/
-│ ├── Pepper__bell___healthy/
-│ ├── Potato___Early_blight/
-│ └── ... (all classes)
-├── scripts/ # Python scripts
-│ ├── train_model.py # Train CNN model
-│ └── predict.py # Predict disease on images
+├── dataset/               
+│   └── PlantVillage/
+├── scripts/
+│   ├── train_model.py
+│   └── predict.py
 ├── models/
-│ └── crop_disease_model.h5 # Trained CNN model
-├── test_images/ # Sample images for testing
-├── notebooks/ # Optional Jupyter notebooks
+│   └── crop_disease_model.h5
+├── test_images/
+│   ├── test_image1.jpg
+│   ├── test_image2.jpg
+├── notebooks/
 ├── README.md
-├── requirements.txt # Required Python packages
-├── venv/ # Virtual environment (ignored in git)
-└── .gitignore # Files/folders ignored in git
+├── requirements.txt
+├── .gitignore
+└── venv/                  
 
 
 ---
