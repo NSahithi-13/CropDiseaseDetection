@@ -14,23 +14,23 @@ The project uses the **PlantVillage dataset** for training and includes a pre-tr
 CropDiseaseDetection/
 
 ├── dataset/               
-│   └── PlantVillage/
+   └── PlantVillage/
 
 ├── scripts/
 
-│   ├── train_model.py
+   ├── train_model.py
 
-│   └── predict.py
+   └── predict.py
 
 ├── models/
 
-│   └── crop_disease_model.h5
+   └── crop_disease_model.h5
 
 ├── test_images/
 
-│   ├── test_image1.jpg
+   ├── test_image1.jpg
 
-│   ├── test_image2.jpg
+   ├── test_image2.jpg
 
 ├── notebooks/
 
